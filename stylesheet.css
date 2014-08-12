@@ -4,4 +4,6 @@ body {
     text-align: center;
     font-family: impact;
     font-size: large;
+h1 {
+    font-size: larger;
 }
